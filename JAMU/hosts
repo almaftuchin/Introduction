@@ -1,0 +1,80 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+127.0.0.1 genuine.microsoft.com
+127.0.0.1 mpa.one.microsoft.com
+127.0.0.1 sls.microsoft.com
+127.0.0.1 idb.iobit.com
+127.0.0.1 asc55.iobit.com
+127.0.0.1 is360.iobit.com
+127.0.0.1 asc.iobit.com
+127.0.0.1 pf.iobit.com
+127.0.0.1 iunins.iobit.com
+127.0.0.1 platform.wondershare.com 
+0.0.0.0 cfs.uzone.id
+0.0.0.0 cfs2.uzone.id
+0.0.0.0 u-ad.info
+0.0.0.0 cfs.u-ad.info
+0.0.0.0 cfs2.uadexchange.com
+36.86.63.180 www.pekalongan-kommuniti.com
+36.86.63.180 pekalongan-kommuniti.com
+36.86.63.180 www.cheat-nesia.blogspot.com
+36.86.63.180 cheat-nesia.blogspot.com
+36.86.63.180 www.pinoyhideout.com
+36.86.63.180 pinoyhideout.com
+36.86.63.180 phcheats.net
+36.86.63.180 www.phcheats.net
+36.86.63.180 propekalongan-kommunity.blogspot.com
+36.86.63.180 www.propekalongan-kommunity.blogspot.com
+36.86.63.180 propekalongan-kommunity.blogspot.com
+36.86.63.180 www.gandjarexe.com
+36.86.63.180 gandjarexe.com
+36.86.63.180 hanungku.blogspot.com
+36.86.63.180 www.hanungku.blogspot.com
+36.86.63.180 pesantren-citer.blogspot.com
+36.86.63.180 www.pesantren-citer.blogspot.com
+36.86.63.180 x-lonz.org
+36.86.63.180 www.x-lonz.org
+36.86.63.180 www.vvipnovuz.net
+36.86.63.180 code-techno.blogspot.com
+36.86.63.180 www.code-techno.blogspot.com
+36.86.63.180 vip-cheats.net
+36.86.63.180 www.vip-cheats.net 
+36.86.63.180 www.Asiangamerz.net
+36.86.63.180 www.hotshotgamers.net
+36.86.63.180 hotshotgamers.net
+36.86.63.180 Asiangamerz.net
+36.86.63.180 www.bancyberz.com
+36.86.63.180 bancyberz.com
+36.86.63.180 rezpektor-key.net
+36.86.63.180 www.rezpektor-key.net
+36.86.63.180 sepoel-cyber.blogspot.co.id
+36.86.63.180 sepoel-cyber.blogspot.com
+36.86.63.180 cheatterbaru2.blogspot.co.id
+36.86.63.180 cheatterbaru2.blogspot.com
+36.86.63.180 www.cheatterbaru2.blogspot.co.id
+36.86.63.180 www.cheatterbaru2.blogspot.com
+36.86.63.180 ridhanrc.blogspot.co.id
+36.86.63.180 ridhanrc.blogspot.com
+36.86.63.180 www.ridhanrc.blogspot.com
+36.86.63.180 www.ridhanrc.blogspot.co.id
+
